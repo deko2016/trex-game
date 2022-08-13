@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\C#\T-REX GAME\T-REX GAME\bin\Debug\T-REX GAME.exe.config
+C:\Users\ACER\source\repos\C#\T-REX GAME\T-REX GAME\bin\Debug\T-REX GAME.exe
+C:\Users\ACER\source\repos\C#\T-REX GAME\T-REX GAME\bin\Debug\T-REX GAME.pdb
+C:\Users\ACER\source\repos\C#\T-REX GAME\T-REX GAME\obj\Debug\T-REX GAME.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C#\T-REX GAME\T-REX GAME\obj\Debug\T-REX GAME.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\C#\T-REX GAME\T-REX GAME\obj\Debug\T_REX_GAME.Form1.resources
+C:\Users\ACER\source\repos\C#\T-REX GAME\T-REX GAME\obj\Debug\T_REX_GAME.Properties.Resources.resources
+C:\Users\ACER\source\repos\C#\T-REX GAME\T-REX GAME\obj\Debug\T-REX GAME.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\C#\T-REX GAME\T-REX GAME\obj\Debug\T-REX GAME.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C#\T-REX GAME\T-REX GAME\obj\Debug\T-REX GAME.exe
+C:\Users\ACER\source\repos\C#\T-REX GAME\T-REX GAME\obj\Debug\T-REX GAME.pdb
